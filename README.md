@@ -81,6 +81,6 @@ Based on the EDA, I propose the following two programmatic trading rules:
 ## 🏁 Conclusion
 The data suggests that **Sentiment is a volatility multiplier.** Successful traders on Hyperliquid are those who provide liquidity during Fear (high size, low frequency) and strictly manage their downside during Greed.
 
-**Author:** [Your Name]  
-**Contact:** [Your Email/LinkedIn]  
+**Author:** vivek meena  
+**Contact:** vivek.meena@iitg.ac.in 
 **Role:** Data Science / Analytics Intern Candidate
